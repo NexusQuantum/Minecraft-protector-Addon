@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@minecraft/server": "^1.11.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "luxon": "^3.5.0"
+  }
+}

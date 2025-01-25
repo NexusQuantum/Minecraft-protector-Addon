@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minecraft Protector Addon",
+    "description": "Minecraft Protector Addonのアドオンデータ",
+    "uuid": "916af90e-44c0-430c-bf72-c40d4cc12c60",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "101b9d98-bfac-4c53-9742-eb14ecc450fd",
+      "entry": "scripts/main.js",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "script_eval"
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.0.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.1.0"
+    }
+  ]
+}
