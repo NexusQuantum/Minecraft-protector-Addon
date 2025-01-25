@@ -1,3 +1,6 @@
+この度はMinecraft protector Addon をご利用いただきありがとうございます。
+このファイルをダウンロードしましたら解凍してcom.mojang\development_behavior_packsにファイルを移動してください
+
 # 利用規約
 ## 改造について
 
